@@ -22,10 +22,10 @@ tag = "tags"
 
 [menu]
   [[menu.top]]
-  name = "Twitter"
+  name = "Facebook"
   pre = ""
   weight = -100
-  url = "http://www.twitter.com/Username"
+  url = "https://www.facebook.com/colectivodepropagandamarxista/"
   [[menu.top]]
   name = "RSS"
   pre = ""

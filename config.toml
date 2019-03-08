@@ -1,0 +1,33 @@
+languageCode = "es-ar"
+title = "CPM"
+baseurl = "https://bondimarx.github.io"
+theme = "darksimplicity"
+min_version = 0.46
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "bondimarx.github.io"
+builddrafts = false
+canonifyurls = true
+
+
+[params]
+description = "colectivo de propaganda marxista"
+#copyright = "&copy Copyright 2018. Matt Rhone and Dark Simplicity."
+#google_analytics_id=""
+#disqus_shortname=""
+avatar = "cpm.jpg"
+
+[taxonomies]
+tag = "tags"
+
+[menu]
+  [[menu.top]]
+  name = "Twitter"
+  pre = ""
+  weight = -100
+  url = "http://www.twitter.com/Username"
+  [[menu.top]]
+  name = "RSS"
+  pre = ""
+  weight = -90
+  url = "index.xml"

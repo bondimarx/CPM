@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CPM</title>
+    <link>https://bondimarx.github.io/posts/</link>
+    <description>Recent content in Posts on CPM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Tue, 05 Mar 2019 23:22:43 -0300</lastBuildDate>
+    
+	<atom:link href="https://bondimarx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La economía macrista en 2018</title>
+      <link>https://bondimarx.github.io/posts/first-post/</link>
+      <pubDate>Tue, 05 Mar 2019 23:22:43 -0300</pubDate>
+      
+      <guid>https://bondimarx.github.io/posts/first-post/</guid>
+      <description>La economía macrista en 2018: límites estructurales, problemas coyunturales y resistencia popular al ajuste
+Hablar de crisis en Argentina no resulta novedoso. Todo lo contrario. La crisis resulta un estado &amp;quot;natural&amp;quot; para los habitantes de este país quienes, desde hace varias décadas, están acostumbrados a la inestabilidad económica y a debacles similares a las de 1989 y 2001. Frente a esta situación, existe una enorme confusión acerca de las causas y los responsables de la crisis.</description>
+    </item>
+    
+  </channel>
+</rss>

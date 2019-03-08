@@ -1,11 +1,11 @@
 languageCode = "es-ar"
 title = "CPM"
-baseurl = "https://bondimarx.github.io"
+baseurl = "https://example.org"
 theme = "darksimplicity"
 min_version = 0.46
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "bondimarx.github.io"
+publishdir = "docs"
 builddrafts = false
 canonifyurls = true
 

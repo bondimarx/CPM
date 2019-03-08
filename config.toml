@@ -1,6 +1,6 @@
 languageCode = "es-ar"
 title = "CPM"
-baseurl = "https://example.org"
+baseurl = "https://bondimarx.github.io/CPM/"
 theme = "darksimplicity"
 min_version = 0.46
 contentdir = "content"

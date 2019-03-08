@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/posts/first-post/</loc>
+    <loc>https://bondimarx.github.io/CPM/posts/first-post/</loc>
     <lastmod>2019-03-05T23:22:43-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2019-03-05T23:22:43-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://bondimarx.github.io/CPM/</loc>
     <lastmod>2019-03-05T23:22:43-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://bondimarx.github.io/CPM/posts/</loc>
+    <lastmod>2019-03-05T23:22:43-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bondimarx.github.io/CPM/tags/</loc>
     <priority>0</priority>
   </url>
   
